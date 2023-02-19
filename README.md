@@ -1,17 +1,4 @@
 # Assignment03 - Sampling UCS654: Predictive Analytics using Statistics (102183052)
-In this 5 different ML models have been applied to a credit card dataset,which are as follows:
-
-1)LogisticRegression 
-
-2)KNeighborsClassifier
-
-3)RandomForestClassifier
-
-4)SVC
-
-5)ExtraTreesClassifier
-
-##
 The following formula has been applied:
 n = (Z^2*(p(1 – p))/(E^2))
 
@@ -24,6 +11,19 @@ p: proportion of population
 
 E: estimated error (0.025)
 
+##
+
+In this 5 different ML models have been applied to a credit card dataset,which are as follows:
+
+1)LogisticRegression 
+
+2)KNeighborsClassifier
+
+3)RandomForestClassifier
+
+4)SVC
+
+5)ExtraTreesClassifier
 
 ##
 Following sampling techniques are used:
