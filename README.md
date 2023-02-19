@@ -17,8 +17,11 @@ n = (Z^2*(p(1 – p))/(E^2))
 
 Where,
 n is the sample size,
+
 Z(Confidence Level): 1.96
+
 p: proportion of population 
+
 E: estimated error (0.025)
 
 
