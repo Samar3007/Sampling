@@ -1,5 +1,4 @@
-# Sampling
-Assignment03 - Sampling UCS654: Predictive Analytics using Statistics
+# Assignment03 - Sampling UCS654: Predictive Analytics using Statistics
 In this 5 different ML models have been applied to a credit card dataset,which are as follows:
 
 1)LogisticRegression 
